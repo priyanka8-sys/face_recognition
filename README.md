@@ -15,6 +15,10 @@ This project uses **OpenCV** and **Haar Cascade Classifiers** for face detection
 ---
 
 ## 📂 Project Structure
+
+
+
+
 face_recognition/
 ├── college_images/ # Dataset of student images
 ├── data/ # Training data folder
